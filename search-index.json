@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Esthétique",
+    "url": "/traitements/esthetique",
+    "image_url": "https://example.com/images/esthetique.jpg",
+    "description": "Améliorez votre beauté avec des traitements à l'ozone avancés axés sur l'esthétique.",
+    "content": "La thérapie par ozone en esthétique se concentre sur le rajeunissement de la peau, les traitements anti-âge et les améliorations cosmétiques.",
+    "keywords": ["esthétique", "beauté", "peau", "anti-âge", "cosmétique", "rajeunissement", "rides", "visage"]
+  },
+  {
+    "title": "Dermatologie",
+    "url": "/traitements/dermatologie",
+    "image_url": "https://example.com/images/dermatologie.jpg",
+    "description": "Améliorez la santé de votre peau avec une thérapie par ozone ciblée pour diverses affections dermatologiques.",
+    "content": "La thérapie par ozone appliquée en dermatologie permet de traiter des affections cutanées telles que l'acné, l'eczéma, le psoriasis et la dermatite.",
+    "keywords": ["dermatologie", "acné", "eczéma", "psoriasis", "dermatite", "peau", "inflammation"]
+  },
+  {
+    "title": "Médecine Régénérative",
+    "url": "/traitements/medecine-regenerative",
+    "image_url": "https://example.com/images/medecine-regenerative.jpg",
+    "description": "Stimulez la réparation cellulaire et la guérison avec des traitements régénératifs par ozone.",
+    "content": "La thérapie par ozone soutient la médecine régénérative en favorisant la réparation des tissus, la régénération cellulaire et les processus de guérison.",
+    "keywords": ["médecine régénérative", "régénération", "guérison", "réparation des tissus", "thérapie cellulaire", "régénératif"]
+  },
+  {
+    "title": "Gastroentérologie",
+    "url": "/traitements/gastroenterologie",
+    "image_url": "https://example.com/images/gastroenterologie.jpg",
+    "description": "Soutenez la santé digestive avec une thérapie par ozone adaptée au système gastro-intestinal.",
+    "content": "En gastroentérologie, la thérapie par ozone vise à améliorer la santé digestive et à traiter les troubles gastro-intestinaux.",
+    "keywords": ["gastroentérologie", "digestif", "estomac", "intestin", "foie", "gastro-intestinal", "inflammation"]
+  },
+  {
+    "title": "Rhumatologie",
+    "url": "/traitements/rhumatologie",
+    "image_url": "https://example.com/images/rhumatologie.jpg",
+    "description": "Soulagez les douleurs articulaires et l'inflammation grâce aux traitements à l'ozone en rhumatologie.",
+    "content": "La thérapie par ozone en rhumatologie peut aider à gérer l'arthrite, les douleurs articulaires et d'autres affections musculo-squelettiques inflammatoires.",
+    "keywords": ["rhumatologie", "arthrite", "douleurs articulaires", "inflammation", "rhumatique", "musculo-squelettique"]
+  },
+  {
+    "title": "Traumatologie et Orthopédie",
+    "url": "/traitements/traumatologie-orthopedie",
+    "image_url": "https://example.com/images/traumatologie-orthopedie.jpg",
+    "description": "Améliorez la récupération après des blessures avec la thérapie par ozone en traumatologie et orthopédie.",
+    "content": "Ce domaine utilise la thérapie par ozone pour faciliter la récupération après des blessures, soutenir la guérison osseuse et améliorer la mobilité après un traumatisme.",
+    "keywords": ["traumatologie", "orthopédie", "blessure", "fracture", "os", "récupération", "mobilité", "blessure sportive"]
+  },
+  {
+    "title": "Médecine sportive",
+    "url": "/traitements/medecine-sportive",
+    "image_url": "https://example.com/images/medecine-sportive.jpg",
+    "description": "Optimisez la performance sportive et la récupération avec des traitements par ozone en médecine sportive.",
+    "content": "La thérapie par ozone en médecine sportive se concentre sur l'amélioration de la récupération des athlètes, la performance et le traitement des blessures liées au sport.",
+    "keywords": ["médecine sportive", "sport", "athlète", "récupération des blessures", "performance", "thérapie physique", "rééducation"]
+  },
+  {
+    "title": "Maladies infectieuses",
+    "url": "/traitements/maladies-infectieuses",
+    "image_url": "https://example.com/images/maladies-infectieuses.jpg",
+    "description": "Renforcez votre système immunitaire et combattez les infections avec la thérapie par ozone.",
+    "content": "Cette application de la thérapie par ozone cible les maladies infectieuses en soutenant le système immunitaire et en réduisant l'inflammation.",
+    "keywords": ["maladies infectieuses", "infection", "virus", "bactéries", "réponse immunitaire", "fièvre", "sepsie"]
+  },
+  {
+    "title": "Urologie",
+    "url": "/traitements/urologie",
+    "image_url": "https://example.com/images/urologie.jpg",
+    "description": "Améliorez la santé de la voie urinaire avec des traitements par ozone spécialisés en urologie.",
+    "content": "La thérapie par ozone est utilisée en urologie pour améliorer la santé de la voie urinaire et gérer les troubles associés.",
+    "keywords": ["urologie", "urinaire", "rein", "vessie", "prostate", "rénal", "voie urinaire"]
+  },
+  {
+    "title": "Gestion de la douleur",
+    "url": "/traitements/gestion-de-la-douleur",
+    "image_url": "https://example.com/images/gestion-de-la-douleur.jpg",
+    "description": "Soulagez efficacement la douleur grâce à des traitements ciblés par ozone.",
+    "content": "Ce domaine se concentre sur l'utilisation de la thérapie par ozone dans la gestion de la douleur pour soulager à la fois les douleurs aiguës et chroniques.",
+    "keywords": ["gestion de la douleur", "analgésie", "douleur chronique", "douleur aiguë", "soulagement de la douleur"]
+  },
+  {
+    "title": "Soins Support",
+    "url": "/traitements/soins-support",
+    "image_url": "https://example.com/images/soins-support.jpg",
+    "description": "Améliorez votre bien-être global avec des soins de soutien par ozone.",
+    "content": "La thérapie par ozone est intégrée dans les soins de support pour améliorer le bien-être général et la qualité de vie.",
+    "keywords": ["soins support", "soins de soutien", "bien-être", "qualité de vie", "soutien", "palliatif"]
+  },
+  {
+    "title": "COVID-19",
+    "url": "/traitements/covid-19",
+    "image_url": "https://example.com/images/covid-19.jpg",
+    "description": "Découvrez les bénéfices potentiels de la thérapie par ozone pour la gestion des complications du COVID-19.",
+    "content": "Ce domaine explore les bénéfices potentiels de la thérapie par ozone dans le traitement du COVID-19 et la gestion de ses complications.",
+    "keywords": ["covid-19", "coronavirus", "pandémie", "respiratoire", "virus", "infection", "inflammation"]
+  }
+]
